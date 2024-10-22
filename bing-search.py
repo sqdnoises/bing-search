@@ -2,7 +2,7 @@
 
 """
 # bing-search
-Automate a browser to search random search queries on Bing.
+Automate a browser to search random queries on Bing.
 Copyright (C) 2024-present SqdNoises
 License: MIT License
 To view the full license, visit https://github.com/sqdnoises/bing-search#license
