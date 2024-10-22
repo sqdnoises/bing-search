@@ -15,7 +15,7 @@ Well this program is the perfect showcase of how you can automatically search ra
         git clone https://github.com/sqdnoises/bing-search.git
         ```
     - If you don't have `git` installed:
-      1. Click the <kbd>Code</kbd> button above the Commits history, then click [<kbd>Download ZIP<kbd>](https://github.com/sqdnoises/bing-search/archive/refs/heads/main.zip) (👈 or you can just click this to download the ZIP).
+      1. Click the <kbd>Code</kbd> button above the Commits history, then click [<kbd>Download ZIP</kbd>](https://github.com/sqdnoises/bing-search/archive/refs/heads/main.zip) (👈 or you can just click this to download the ZIP).
       2. Extract the ZIP file into a folder.
 
 > [!IMPORTANT]
