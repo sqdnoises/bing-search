@@ -1,5 +1,5 @@
 > [!WARNING]
-> This code no longer works and is no longer maintained, however it is still available for anyone to view and learn something.
+> This code no longer gives you points and is no longer maintained, however it is still available for anyone to view and learn something.
 
 ---
 
