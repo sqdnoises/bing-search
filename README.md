@@ -1,3 +1,8 @@
+> [!WARNING]
+> This code no longer works and is no longer maintained, however it is still available for anyone to view and learn something.
+
+---
+
 # Bing auto-search queries
 Ever wanted to automatically search on Bing? Maybe you did, because you want the points for Bing Rewards automatically.
 
